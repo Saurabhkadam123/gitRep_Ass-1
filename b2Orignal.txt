@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change in b2 file
+=======
+change in b3
+>>>>>>> b3
